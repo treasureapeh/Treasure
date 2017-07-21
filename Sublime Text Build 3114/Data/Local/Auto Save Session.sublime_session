@@ -1,0 +1,1186 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Visiola Foundation/Desktop/ASC Projects",
+		"/C/Users/Visiola Foundation/Desktop/VF GSS Documents/PROJECTS/ADSS_MAITAMA_FINAL_PROJECT",
+		"/C/Users/Visiola Foundation/Desktop/CODERS/Jennifer/jennifer"
+	],
+	"last_version": 3126,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"b",
+						"body\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/user/Desktop/coding bootcamp/codes.css",
+				"/C/Users/user/Desktop/coding bootcamp/New.html",
+				"/C/Users/user/Desktop/coding bootcamp/code.html",
+				"/C/Users/user/Desktop/coding bootcamp/external.css",
+				"/C/Users/user/Desktop/coding bootcamp/codingxperience",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/bootcampexperience",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/visiola.html",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/bootcampexperience.html",
+				"/C/Users/EWEAMA JERRY/Desktop/Sublime Text Build 3114/visiola.html",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/mjays place.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.css",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/ADSS_MAITAMA_FINAL_PROJECT/homepage.html",
+				"/C/Users/Visiola Foundation/Desktop/FINAL FINAL FOLDER/FINAL PROJECTS/KUBWA FINAL PROJECT/contact.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/ADSS_MAITAMA_FINAL_PROJECT/home.css",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/Activities.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/Main_css_and_hp/whatwedo.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/Main_css_and_hp/about.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/contact.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/about.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/contact.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/contactus.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/aboutus.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/home.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/schools.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/CAMPS/2017 CAMPS/Ibadan Coding Boot Camp/IBADAN CODING PROJECTS/CODERS/Darasimi/cakehome.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/home.css",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/whatwedo.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/CAMPS/2017 CAMPS/Ibadan Coding Boot Camp/IBADAN CODING PROJECTS/CODERS/Darasimi/jcrown.css",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/CAMPS/2017 CAMPS/Ibadan Coding Boot Camp/IBADAN CODING PROJECTS/CODERS/Darasimi/cake.css",
+				"/C/Users/Visiola Foundation/Desktop/PYTHON/quiz.py",
+				"/C/Users/Visiola Foundation/Desktop/GGSS_DUTSE/whatwedo.css",
+				"/E/dami/imageslide.js",
+				"/E/dami/js-image-slider.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/index.js",
+				"/C/Users/Visiola Foundation/Desktop/home.html",
+				"/C/Users/Visiola Foundation/Desktop/ibadan.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-q22016.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-q42016.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-Q1-2017.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/The Visiola Foundation Quarterly Newsletter Q4_2016 _ The Visiola Foundation.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/The Visiola Foundation Quarterly Newsletter Q2_2016 _ The Visiola Foundation.html",
+				"/C/Users/Visiola Foundation/Desktop/kenny.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/switch.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/evenNumbers.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/copy.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/index.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/ConversionApp.html",
+				"/C/Users/Visiola Foundation/Desktop/viewPosts.html",
+				"/C/Users/Visiola Foundation/Desktop/date.html",
+				"/C/Users/Visiola Foundation/Desktop/test.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/meta.json",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/js-image-slider.js",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/index.css",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/js-image-slider.css",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/js-image-slider.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/todo.html",
+				"/C/Users/Visiola Foundation/Desktop/todo.js",
+				"/C/Users/Visiola Foundation/Desktop/todo.html",
+				"/C/Users/Visiola Foundation/Desktop/todo.css",
+				"/C/Users/Visiola Foundation/Desktop/ChatBot.html",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/Assign1.html",
+				"/C/Users/Visiola Foundation/Desktop/lekkicamp.html",
+				"/C/Users/Visiola Foundation/Desktop/lekkicamp.css",
+				"/C/Users/Visiola Foundation/Desktop/calculatorApp.html",
+				"/C/Users/Visiola Foundation/Desktop/testCode.html",
+				"/C/Users/Visiola Foundation/Desktop/changeBackgroundColor.html",
+				"/C/Users/Visiola Foundation/Desktop/moveImagePosition.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/2016 CAMPS/CBC Slides/HTML Practice/Assign1.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/2016 CAMPS/CBC Slides/HTML Practice/Assign1style.css",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/visiola-newsletter-q32016.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-q42016-Alternate.html",
+				"/C/Users/Visiola Foundation/Desktop/codility.html",
+				"/E/visiola-newsletter-q42016.html",
+				"/C/Users/Visiola Foundation/Desktop/test.php",
+				"/C/Users/Visiola Foundation/Desktop/test1.php",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/2016_Q3_newsletter.html",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/dyk.html",
+				"/C/Users/Visiola Foundation/Desktop/Q3.html",
+				"/C/Users/Visiola Foundation/Desktop/daiee.html",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/test2.html",
+				"/C/xampp/htdocs/practice/test.php",
+				"/E/FINAL SUBMISSION/outliers/homepage/new 2.html",
+				"/C/Users/Visiola Foundation/Desktop/natella.html",
+				"/C/Users/Visiola Foundation/Desktop/so.html",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/push.html",
+				"/C/Users/Visiola Foundation/Desktop/n.html",
+				"/C/Users/Visiola Foundation/Desktop/title.html",
+				"/C/Users/Visiola Foundation/Desktop/CBC Slides/HTML Practice/button.html",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/Assign1style.css",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/hello world.html"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"<div id=\"Menu\">\n<table  style=\"color: purple;width:1200px;height: 100px\">\n\n<tr>\n<td>Home</td><td>About</td><td>Contact</td><td>help</td></td>\n</tr>\n</table>\n\n</div>",
+					">\n",
+					"Reset",
+					"OCTYPE",
+					"auto"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 210.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"b",
+						"body\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<html>\n<head>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"home.css\">\n</head>\n<body>\n<div id=\"container\">\n<div id=\"menu\"><a href=\"home.html\" class=\"button\">HOME</a>\n              <a href=\"activities.html\" class=\"button\">ACTIVIES</a>\n              <a href=\"schools.html\" class=\"button\">SCHOOLS</a>\n              <a href=\"contact.html\" class=\"button\">CONTACT</a>\n</div>\n<div id=\"cover\">\n<img src=\"images.jfif\" style=\"width:80%; height:600px\"/>\n</div>\n\n<div id=\"content\">\n<h1> ROBOTICS </h1>\n<table>\n<tr>\n<td> <img src=\"robotics.jpg\" style=\"width:350px; height:300px\"/> </td>\n<td> <h2>importance of a robot </h2>\n<p>                           </p>\n</td>\n</tr></table>\n\n\n\n\n<h1> WEB DESIGN </h1>\nWebsite is a place connected to the intenet where people advertise or create things on the internet.\nweb designers build web pages using HTML tags that defines content of each page.The appearance and element within a web page are typically defined using CSS.Therefore most website include a combination of HTML&CSS that defines how each page will apper in a browser.\n<h2>IMPORTANCE OF A WEBSITE</h2>\n 1.Well looked professional website is the door to online market and a base to build your clientele.\n 2.Low cost advertising:The advert posted on your website is not as expensive as that of billboards.\n 3.Sales:It boost sales since potential customers are not restricted to business.\n 4.Accessibility:Your company will be easily accessible and located.\n 5.Good web design enhances effectiveness such that it delivers the right message into the heart of customers.\n   <h3>BENEFITS OF WEBSITE</h3>\n   It keeps people up-to-date with news and information about your company.\n   It increases the number of people who finds your web site through search engines.\n   It is fast and easy to use\n\n\n\n\n\n                 <br/>\n<h1>accomplishment</h1>\n We've learnt how to:\n1. Build a Robot,\n2. Design a website\n3. Connect a circuit\n4. Networking\n\n  \n\n<h1> ESSAY</h1>\n\n<table>\n<tr>\n<td> <img src=\"images.jfif\" /> </td>\n<td> <h2>International Women's Day</h2>\n<p>                           </p>\n</td>\n</tr></table>\n\n\n<h1>Great Women in Africa</h1>\n<img src=\"download.jfif\" style=\"width:100%; height:600px\"/> \n\n<h1>STUDENT'S ACHIEVEMENTS</h1>\n<h2>Gallery</h2>\n\n<h3>Quotes From Students</h3>\n\n</div>\n<div id=\"footer\">\n&copy;2017 Kubwa\n</div>\n</div>\n</body>\n</html>",
+					"file": "/C/Users/Visiola Foundation/Desktop/FINAL FINAL FOLDER/FINAL PROJECTS/KUBWA FINAL PROJECT/Activities.html",
+					"file_size": 2364,
+					"file_write_time": 131420012816037345,
+					"settings":
+					{
+						"buffer_size": 2339,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/wowtreasure.html",
+					"settings":
+					{
+						"buffer_size": 2723,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/codes.css",
+					"settings":
+					{
+						"buffer_size": 665,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/Users/user/Desktop/coding bootcamp/materialise/materialize/css/materialize.css",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/materialise/materialize/css/materialize.css",
+					"settings":
+					{
+						"buffer_size": 178964,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/code.html",
+					"settings":
+					{
+						"buffer_size": 715,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/Users/user/Desktop/coding bootcamp/inline.css",
+					"file_size": 0,
+					"file_write_time": 131449493301315229,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<html>\n<head>\n\n</head>\n\n<body>\n<div id=\"container\">\n\n<div id=\"Menu\">\n<table  style=\"color: purple;width:600px;\">\n\n<tr>\n<td>Home</td><td>About</td><td>Contact</td><td>help</td></td>\n</tr>\n</table>\n\n</div>\n\n\n\n<div id=\"gallery\">\n<img src=\"2.jpg\" alt=\"image\" width=\"800\" height=\"300\" al=\"center\">\n</div>\n\n\n<div id=\"content\">\n<h1 style=\"color: purple;width:800px;height:500px; background-color: violet\";>Mission</h1>\n</div>\n\n<div id=\"footer\">\n<p>copyright@2017 wow treasure</p>\n</div>\n\n\n\n\n</div>\n</body>\n</html>",
+					"file": "/C/Users/user/Desktop/coding bootcamp/chindinma.html",
+					"file_size": 544,
+					"file_write_time": 131448660990072856,
+					"settings":
+					{
+						"buffer_size": 506,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/home.html",
+					"settings":
+					{
+						"buffer_size": 1139,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/about.html",
+					"settings":
+					{
+						"buffer_size": 1371,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/contact.html",
+					"settings":
+					{
+						"buffer_size": 1406,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/user/Desktop/coding bootcamp/help.html",
+					"settings":
+					{
+						"buffer_size": 1303,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.css",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/ADSS_MAITAMA_FINAL_PROJECT/homepage.html",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "body{background-color:brown;}\nh1{text-align:center;color:#292929;}\nh2{text-align:center;color:#292929;}\nh3{text-align:center;color:#292929;}\nfont{family:Calfornian-FB;}\n\n\n#container{width:auto;\n\tborder:2px;\n\tbackground-color:#98EE5D;\n\tmargin:40px;\n\tpadding:30px;}\n\n#menu{text-align:center;\n\tword-spacing:50px;\n\theight:30px;\n\tborder:1px;\n\t}\n\n#cover{text-align:center;\n\t\theight:500px;\n\t\twidth:1000px;\n\t\tbackground-color:pink;}\n\n#content{height:auto;\n\twidth:auto;\n\tpadding:30px;\n\t}\n\n#footer{text-align:center;\nmargin: 0 auto;\nheight: 20px;\nbackground-color:lightgrey;}\n\n\n.button {background-color:white;color:black;border:2px solid #555555; width: 50px;}\n\n.button-hover {background-color:antiquewhite;color:white;}",
+					"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/Main_css_and_hp/homepage.css",
+					"file_size": 736,
+					"file_write_time": 131419535223056362,
+					"settings":
+					{
+						"buffer_size": 711,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects"
+			],
+			"file_history":
+			[
+				"/C/Users/user/Desktop/coding bootcamp/bootcampxperience.html",
+				"/C/Users/user/Desktop/coding bootcamp/materialise/materialize/css/materialize.css",
+				"/C/Users/user/Desktop/coding bootcamp/New.html",
+				"/C/Users/user/Desktop/coding bootcamp/codes.css",
+				"/C/Users/user/Desktop/coding bootcamp/code.html",
+				"/C/Users/user/Desktop/coding bootcamp/external.css",
+				"/C/Users/user/Desktop/coding bootcamp/codingxperience",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/bootcampexperience",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/visiola.html",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/bootcampexperience.html",
+				"/C/Users/EWEAMA JERRY/Desktop/Sublime Text Build 3114/visiola.html",
+				"/C/Users/EWEAMA JERRY/Desktop/visiola.html/mjays place.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.css",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/ADSS_MAITAMA_FINAL_PROJECT/homepage.html",
+				"/C/Users/Visiola Foundation/Desktop/FINAL FINAL FOLDER/FINAL PROJECTS/KUBWA FINAL PROJECT/contact.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/ADSS_MAITAMA_FINAL_PROJECT/home.css",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/Activities.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/Main_css_and_hp/whatwedo.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/Main_css_and_hp/about.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/contact.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/about.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/contact.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/contactus.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/aboutus.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/home.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/schools.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/CAMPS/2017 CAMPS/Ibadan Coding Boot Camp/IBADAN CODING PROJECTS/CODERS/Darasimi/cakehome.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/KUBWA FINAL PROJECT/home.css",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.html",
+				"/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/whatwedo.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/CAMPS/2017 CAMPS/Ibadan Coding Boot Camp/IBADAN CODING PROJECTS/CODERS/Darasimi/jcrown.css",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/CAMPS/2017 CAMPS/Ibadan Coding Boot Camp/IBADAN CODING PROJECTS/CODERS/Darasimi/cake.css",
+				"/C/Users/Visiola Foundation/Desktop/PYTHON/quiz.py",
+				"/C/Users/Visiola Foundation/Desktop/GGSS_DUTSE/whatwedo.css",
+				"/E/dami/imageslide.js",
+				"/E/dami/js-image-slider.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/index.js",
+				"/C/Users/Visiola Foundation/Desktop/home.html",
+				"/C/Users/Visiola Foundation/Desktop/ibadan.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-q22016.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-q42016.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-Q1-2017.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/The Visiola Foundation Quarterly Newsletter Q4_2016 _ The Visiola Foundation.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/The Visiola Foundation Quarterly Newsletter Q2_2016 _ The Visiola Foundation.html",
+				"/C/Users/Visiola Foundation/Desktop/kenny.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/switch.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/evenNumbers.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/copy.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/index.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/ConversionApp.html",
+				"/C/Users/Visiola Foundation/Desktop/viewPosts.html",
+				"/C/Users/Visiola Foundation/Desktop/date.html",
+				"/C/Users/Visiola Foundation/Desktop/test.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/meta.json",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/js-image-slider.js",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/clock/index.css",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/js-image-slider.css",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/js-image-slider.html",
+				"/C/Users/Visiola Foundation/Desktop/CodesPractice/todo.html",
+				"/C/Users/Visiola Foundation/Desktop/todo.js",
+				"/C/Users/Visiola Foundation/Desktop/todo.html",
+				"/C/Users/Visiola Foundation/Desktop/todo.css",
+				"/C/Users/Visiola Foundation/Desktop/ChatBot.html",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/Assign1.html",
+				"/C/Users/Visiola Foundation/Desktop/lekkicamp.html",
+				"/C/Users/Visiola Foundation/Desktop/lekkicamp.css",
+				"/C/Users/Visiola Foundation/Desktop/calculatorApp.html",
+				"/C/Users/Visiola Foundation/Desktop/testCode.html",
+				"/C/Users/Visiola Foundation/Desktop/changeBackgroundColor.html",
+				"/C/Users/Visiola Foundation/Desktop/moveImagePosition.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/2016 CAMPS/CBC Slides/HTML Practice/Assign1.html",
+				"/C/Users/Visiola Foundation/Desktop/Visiola Files/2016 CAMPS/CBC Slides/HTML Practice/Assign1style.css",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/visiola-newsletter-q32016.html",
+				"/C/Users/Visiola Foundation/Desktop/testLetter/visiola-newsletter-q42016-Alternate.html",
+				"/C/Users/Visiola Foundation/Desktop/codility.html",
+				"/E/visiola-newsletter-q42016.html",
+				"/C/Users/Visiola Foundation/Desktop/test.php",
+				"/C/Users/Visiola Foundation/Desktop/test1.php",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/2016_Q3_newsletter.html",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/dyk.html",
+				"/C/Users/Visiola Foundation/Desktop/Q3.html",
+				"/C/Users/Visiola Foundation/Desktop/daiee.html",
+				"/C/Users/Visiola Foundation/Desktop/visiola-newsletter-q32016/test2.html",
+				"/C/xampp/htdocs/practice/test.php",
+				"/E/FINAL SUBMISSION/outliers/homepage/new 2.html",
+				"/C/Users/Visiola Foundation/Desktop/natella.html",
+				"/C/Users/Visiola Foundation/Desktop/so.html",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/push.html",
+				"/C/Users/Visiola Foundation/Desktop/n.html",
+				"/C/Users/Visiola Foundation/Desktop/title.html",
+				"/C/Users/Visiola Foundation/Desktop/CBC Slides/HTML Practice/button.html",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/Assign1style.css",
+				"/C/Users/Visiola Foundation/Desktop/HTML Practice/hello world.html"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"<div id=\"Menu\">\n<table  style=\"color: purple;width:1200px;height: 100px\">\n\n<tr>\n<td>Home</td><td>About</td><td>Contact</td><td>help</td></td>\n</tr>\n</table>\n\n</div>",
+					">\n",
+					"Reset",
+					"OCTYPE",
+					"auto"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Visiola Foundation\\Desktop\\ASC Projects"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Visiola Foundation/Desktop/FINAL FINAL FOLDER/FINAL PROJECTS/KUBWA FINAL PROJECT/Activities.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2339,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										609,
+										609
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/user/Desktop/coding bootcamp/wowtreasure.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2723,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2640,
+										2709
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1347.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/user/Desktop/coding bootcamp/codes.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 665,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19,
+										50
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/user/Desktop/coding bootcamp/materialise/materialize/css/materialize.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/user/Desktop/materialise/materialize/css/materialize.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 178964,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/user/Desktop/coding bootcamp/code.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 715,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										288,
+										288
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/user/Desktop/coding bootcamp/inline.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/user/Desktop/coding bootcamp/chindinma.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 506,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										506
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/user/Desktop/coding bootcamp/home.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										809,
+										809
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/user/Desktop/coding bootcamp/about.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1371,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1011,
+										1011
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Users/user/Desktop/coding bootcamp/contact.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										754,
+										754
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Users/user/Desktop/coding bootcamp/help.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1303,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										743,
+										743
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/GGSS_DUTSE/home.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/ADSS_MAITAMA_FINAL_PROJECT/homepage.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/11.jpg",
+							"semi_transient": true,
+							"stack_index": 10,
+							"type": "image"
+						},
+						{
+							"buffer": 15,
+							"file": "/C/Users/Visiola Foundation/Desktop/ASC Projects/MSS MAITAMA PROJECT/Main_css_and_hp/homepage.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 711,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										208,
+										208
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,728,454,189,1110",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 210.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
